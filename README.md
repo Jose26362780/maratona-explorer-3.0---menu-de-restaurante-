@@ -1,6 +1,6 @@
 #  Maratona Explorer 3.0 
 
-![preview](./rocketcoffe.png)
+![preview](./.github/rocketcoffe.png)
 
 
 > Trilha Explorer 
@@ -28,7 +28,7 @@ Foi construido um site completamente desde o zero com muita mão na massa, compl
 
 Para accesar a app pelo QR CODE
 
-![preview](./rocketcoffe.png)
+![preview](./.github/rocketcoffe.png)
 
 
 
