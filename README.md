@@ -28,11 +28,7 @@ Foi construido um site completamente desde o zero com muita mão na massa, compl
 
 Para accesar a app pelo QR CODE
 
-<<<<<<< HEAD
 ![preview](./.github/QR%20code%20maratona.png)
-=======
-![preview](./.github/rocketcoffe.png)
->>>>>>> f9513cf21ecb84a742d1083d1a196611d174fcba
 
 
 
