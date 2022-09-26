@@ -1,6 +1,6 @@
 #  Maratona Explorer 3.0 
 
-![preview](./rocketcoffe.png)
+![preview](./.github/rocketcoffe.png)
 
 
 > Trilha Explorer 
@@ -9,7 +9,7 @@ Projeto construido Na maratona Explorer  da Rocketseat.
 
 👉🏼[Clique aqui para accessar](https://jose26362780.github.io/Maratona-Explorer-3.0/)
 
-👉🏼[Clique aqui para accessar] (https://maratona-explorer-3-0.netlify.app/)
+👉🏼[Clique aqui para accessar](https://maratona-explorer-3-0.netlify.app/)
 
 
 
@@ -28,7 +28,7 @@ Foi construido um site completamente desde o zero com muita mão na massa, compl
 
 Para accesar a app pelo QR CODE
 
-![preview](./rocketcoffe.png)
+![preview](./.github/QR%20code%20maratona.png)
 
 
 
